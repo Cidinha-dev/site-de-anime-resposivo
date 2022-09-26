@@ -149,11 +149,15 @@ h2, h3{
     color: rgb(36, 36, 36);
     text-align: center;
 }
+h3{
+    font-size: 2rem;
+}
 h2{
  font-size: 3rem;
 }
 p{
-    font-size: 1.6rem;
+    color:#333;
+    font-size: 1.8rem;
 }
 
 h2:hover, h3:hover{
@@ -216,7 +220,7 @@ h2:hover, h3:hover{
     text-align: center;
 }
 
-/*  eventos */
+/*  parallax */
 
 .box1{
     position: relative;
