@@ -152,6 +152,9 @@ h2, h3{
 h2{
  font-size: 3rem;
 }
+p{
+    font-size: 1.5rem;
+}
 
 h2:hover, h3:hover{
     font-style: italic;
@@ -247,7 +250,7 @@ h2:hover, h3:hover{
     font-size: 1.6rem;
     color: #777;
     text-align: center;
-    padding: 1rem 2rem;
+    padding: 1rem 8rem;
     background-color: white;
 }
 
